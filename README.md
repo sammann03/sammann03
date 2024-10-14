@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sammann03
 - 👀 I’m interested in eating, sleeping, coding, attending contests and doing this in a loop.
 - 🌱 I’m currently learning DSA, Python, C.
-- 💞️ I’m looking to collaborate on projects which require front end development.
+- 💞️ I’m looking to collaborate on projects which require full stack development.
 - 📫 How to reach me. Email: sammmannsingh.031005@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I like someone (hehe)

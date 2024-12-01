@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on projects which require full stack development.
 - 📫 How to reach me. Email: sammmannsingh.031005@gmail.com
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I like someone (hehe)
+- ⚡ Fun fact: I still love C

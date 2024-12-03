@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Samman
+- 👋 Hi, I’m Samman.
 - 👀 I’m interested in eating, sleeping, coding and attending contests.
 - 🌱 I’m currently learning DSA, Python, JavaScript.
 - 💞️ I’m looking to collaborate on projects which require full stack development.
